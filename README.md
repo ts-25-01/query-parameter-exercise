@@ -1,3 +1,10 @@
+# Query-Parameter
+- q: Suchbegriff
+- sort: Sortierung (nach Datum, Relevanz,..)
+- page: Paginierung (z.B. Seite 1,2,3)
+- limit: Anzahl der Ergebnisse limitieren
+- filter: z.B. nach Kategorie, Preis etc. filtern
+
 # 🧠 Was macht diese Route?
 
 ```python
